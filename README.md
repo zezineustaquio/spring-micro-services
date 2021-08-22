@@ -4,6 +4,16 @@
 
 - [JDK 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
 
+### IDE Prerequisites
+- [Lombok](https://projectlombok.org/)
+
+## Frameworks
+- Spring Boot
+- Spring Data JPA
+- Spring Web
+- Swagger
+- Liquibase
+
 ## Build Jar Artifact
 Command to create a jar file on path *./build/lib* to execute.
 ```sh
